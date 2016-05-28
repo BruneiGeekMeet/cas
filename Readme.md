@@ -18,3 +18,7 @@ At the core of the CAS vision is to seek and implement no-kill solutions (unless
 
 **Github**
 - https://github.com/BruneiGeekMeet/cas
+
+**Current Status**
+- To build a system as described in 2016-05-16_meeting_notes.md
+
